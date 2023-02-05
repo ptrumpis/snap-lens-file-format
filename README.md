@@ -99,7 +99,9 @@ See here: [Zstandard Compression Format](https://github.com/facebook/zstd/blob/d
 ## Proof of Concept
 I wrote a small web based file unpacker tool in JavaScript to decompress the data and export the archive to ZIP format. Since there is currently no working unpackers.
 
-https://github.com/ptrumpis/snap-lens-file-extractor
+My working implementations
+- https://github.com/ptrumpis/snap-lens-file-extractor
+- https://codepen.io/ptrumpis/pen/jOpQREE?editors=0010
 
 ## Links and Resources
 - https://github.com/facebook/zstd
