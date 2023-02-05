@@ -100,13 +100,13 @@ See here: [Zstandard Compression Format](https://github.com/facebook/zstd/blob/d
 I wrote a small web based file unpacker tool in JavaScript to decompress the data and export the archive to ZIP format. Since there is currently no working unpackers.
 
 My working implementations
-- https://github.com/ptrumpis/snap-lens-file-extractor
-- https://codepen.io/ptrumpis/pen/jOpQREE?editors=0010
+- [https://github.com/ptrumpis/snap-lens-file-extractor](https://github.com/ptrumpis/snap-lens-file-extractor)
+- [https://codepen.io/ptrumpis/pen/jOpQREE?editors=0010](https://codepen.io/ptrumpis/pen/jOpQREE?editors=0010)
 
 ## Links and Resources
-- https://github.com/facebook/zstd
-- https://github.com/facebook/zstd/blob/dev/doc/zstd_compression_format.md
+- [https://github.com/facebook/zstd](https://github.com/facebook/zstd)
+- [https://github.com/facebook/zstd/blob/dev/doc/zstd_compression_format.md](https://github.com/facebook/zstd/blob/dev/doc/zstd_compression_format.md)
 
 ## Special Thanks
 I would like to thank [encode.su](https://encode.su/) and especially the user mariush for providing very accurate first header analysis.
-https://encode.su/threads/4010-Help-with-unknown-file-archive-starting-with-LZC-Header
+[https://encode.su/threads/4010-Help-with-unknown-file-archive-starting-with-LZC-Header](https://encode.su/threads/4010-Help-with-unknown-file-archive-starting-with-LZC-Header)
