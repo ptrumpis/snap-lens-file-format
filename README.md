@@ -1,4 +1,4 @@
-# Snap Lens File Format 
+# 👻 Snap Lens File Format 
 Documentation of the Snapchat / Snap Camera Lens File Format (lens.lns / \*.lns) used by Snap Inc.
 
 ## Introduction
@@ -99,8 +99,9 @@ See here: [Zstandard Compression Format](https://github.com/facebook/zstd/blob/d
 ## Proof of Concept
 I wrote a small web based file unpacker tool in JavaScript to decompress the data and export the archive to ZIP format. Since there is currently no working unpackers.
 
-My working implementation
+My working implementations
 - [https://github.com/ptrumpis/snap-lens-file-extractor](https://github.com/ptrumpis/snap-lens-file-extractor)
+- [https://github.com/ptrumpis/snap-lens-tool](https://github.com/ptrumpis/snap-lens-tool)
 
 ## Links and Resources
 - [https://github.com/facebook/zstd](https://github.com/facebook/zstd)
@@ -112,6 +113,7 @@ I would like to thank [encode.su](https://encode.su/) and especially the user ma
 
 ---
 
-Source code available at GitHub: [Snap Lens File Format](https://github.com/ptrumpis/snap-lens-file-format)
+Source code available at GitHub:  
+[Snap Lens File Format](https://github.com/ptrumpis/snap-lens-file-format)
 
-© [Patrick Trumpis](https://github.com/ptrumpis)
+© 2023-2024 [Patrick Trumpis](https://github.com/ptrumpis)
