@@ -116,4 +116,4 @@ I would like to thank [encode.su](https://encode.su/) and especially the user ma
 Source code available at GitHub:  
 [Snap Lens File Format](https://github.com/ptrumpis/snap-lens-file-format)
 
-© 2023-2024 [Patrick Trumpis](https://github.com/ptrumpis)
+© 2023-2025 [Patrick Trumpis](https://github.com/ptrumpis)
